@@ -1,10 +1,13 @@
 #convert the following into boolean
-bool("True")
-bool("False")
-bool("0")
-bool("1")
-bool(0)
-bool(1)
+type("True")
+Class(bool)
+type("False")
+Class(bool)
+type("0")
+Class(bool)
+type("1")
+Class(bool)
+
 
 #Convert a string to an integer
 integervalue=int(float("4.5869"))
